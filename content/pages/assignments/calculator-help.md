@@ -6,7 +6,7 @@ title: Calculator Help
 uid: 758ceee0-d290-5d7c-5072-7d458581a3b3
 ---
 
-problemNumber = 0; wl("<h3>Calculator</h3>"); writecalculator("psetcheckcalcid", "Calculate"); whr(kdivcol,kdivwid);
+problemNumber = 0; wl("\<h3>Calculator\</h3>"); writecalculator("psetcheckcalcid", "Calculate"); whr(kdivcol,kdivwid);
 
 Basic Arthmetic
 ---------------
