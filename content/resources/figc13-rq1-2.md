@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 77c5e33c-1267-b977-80b7-a3e4b16f8ced
 resourcetype: Image
 title: figc13-rq1-2.png
 uid: f96908df-0eb6-6085-ddb0-67876535d13e

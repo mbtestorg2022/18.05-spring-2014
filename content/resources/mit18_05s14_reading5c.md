@@ -4,6 +4,7 @@ description: 'This resource file contains information regarding reading 5c: gall
   of continuous random variables.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-05-introduction-to-probability-and-statistics-spring-2014/3dcb25dca7833a7c062d516701da5c8d_MIT18_05S14_Reading5c.pdf
 file_type: application/pdf
+parent_uid: 579c055a-ccb4-eb7e-bb6b-f294146b45a5
 resourcetype: Document
 title: 'Reading 5c: Gallery of Continuous Random Variables'
 uid: 3dcb25dc-a783-3a7c-062d-516701da5c8d

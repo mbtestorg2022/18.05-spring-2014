@@ -14,6 +14,7 @@ image_metadata:
   image-alt: "A histogram shows that in response to the question, \u201CWhich treatment\
     \ would you choose?,\u201D 3% of students chose the answer \u201Ccured 100%,\u201D\
     \ 45% chose \u201Ccured 95%,\u201D and 52% chose \u201Ccured 90%.\u201D"
+parent_uid: 5e3f696f-76b6-5791-5119-281343256948
 resourcetype: Image
 title: Image 2
 uid: 05ad8f69-cdf6-0607-8d3a-44be35d76704

@@ -20,6 +20,7 @@ image_metadata:
   image-alt: 'An instructor writes on a whiteboard while students look on. The instructor
     is captured by a ceiling-mounted camera and live-streamed on screens around the
     classroom. '
+parent_uid: 788b6153-ce75-e1be-31f0-a394ce761f32
 resourcetype: Image
 title: Image 2
 uid: 6525d0e9-d7a6-a5d4-ae6e-b7b45d2f4bc4

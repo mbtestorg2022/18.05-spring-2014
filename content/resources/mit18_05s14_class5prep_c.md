@@ -4,6 +4,7 @@ description: 'This is a resource file that contains information regarding class 
   gallery of continuous variables; histograms.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-05-introduction-to-probability-and-statistics-spring-2014/58b3986c5d4e1b73903edbe630743ec4_MIT18_05S14_class5prep_c.pdf
 file_type: application/pdf
+parent_uid: 795a5521-0a16-d54d-c4e8-910a0c21496f
 resourcetype: Document
 title: 'Class 5: Gallery of continuous variables; histograms'
 uid: 58b3986c-5d4e-1b73-903e-dbe630743ec4

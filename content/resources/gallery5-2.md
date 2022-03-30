@@ -14,6 +14,7 @@ image_metadata:
   credit: Image courtesy of OCW.
   image-alt: An instructor balances a ruler with weights on his finger, as students
     look on.
+parent_uid: 6ce197eb-23ac-01ac-0db3-a4799d5dbc0b
 resourcetype: Image
 title: Image 2
 uid: 49c6dd11-188a-a734-16b1-c66d57f0be85

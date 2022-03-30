@@ -4,6 +4,7 @@ description: This is a resource file that contains information regarding exam 1 
   questions 1.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-05-introduction-to-probability-and-statistics-spring-2014/1a8929788f327e358603adb327cc541e_MIT18_05S14_Prac_Exam1a.pdf
 file_type: application/pdf
+parent_uid: ad95d694-8a5a-21e8-d68c-2ed80b877e38
 resourcetype: Document
 title: Exam 1 Practice Questions I
 uid: 1a892978-8f32-7e35-8603-adb327cc541e

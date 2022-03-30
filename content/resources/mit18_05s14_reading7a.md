@@ -4,6 +4,7 @@ description: 'This is a resource file that contains information regarding readin
   7a: joint distributions, independence.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-05-introduction-to-probability-and-statistics-spring-2014/bc2aecd33d981fe4625fa8a434a9dca7_MIT18_05S14_Reading7a.pdf
 file_type: application/pdf
+parent_uid: 579c055a-ccb4-eb7e-bb6b-f294146b45a5
 resourcetype: Document
 title: 'Reading 7a: Joint Distributions, Independence'
 uid: bc2aecd3-3d98-1fe4-625f-a8a434a9dca7

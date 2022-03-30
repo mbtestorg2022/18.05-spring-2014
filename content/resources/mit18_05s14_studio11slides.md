@@ -4,6 +4,7 @@ description: This is a resource file that contains information regarding confide
   intervals III.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-05-introduction-to-probability-and-statistics-spring-2014/286b835f7464b34694aebdd15de5d663_MIT18_05S14_studio11slides.pdf
 file_type: application/pdf
+parent_uid: 795a5521-0a16-d54d-c4e8-910a0c21496f
 resourcetype: Document
 title: 'Studio 11 Slides with Solutions: Confidence intervals III'
 uid: 286b835f-7464-b346-94ae-bdd15de5d663

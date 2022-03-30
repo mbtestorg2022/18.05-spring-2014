@@ -19,6 +19,7 @@ image_metadata:
   image-alt: Small groups of students gather around whiteboards and work together
     on solving math problems. The students work directly on likelihood tables that
     are projected onto the whiteboards.
+parent_uid: 3c62fbfe-ae8e-25cf-61a1-d89aaacf1f43
 resourcetype: Image
 title: Image 3
 uid: 25edccd2-4f2d-3ab4-2147-99c64691b238

@@ -20,6 +20,7 @@ image_metadata:
     focus the problem sets on challenging problems.'
   credit: Image courtesy of OCW.
   image-alt: An instructor and a student work together at a whiteboard.
+parent_uid: 3c62fbfe-ae8e-25cf-61a1-d89aaacf1f43
 resourcetype: Image
 title: Image 4
 uid: e791a63c-d86f-2da9-c9fc-5efdb6b2f341

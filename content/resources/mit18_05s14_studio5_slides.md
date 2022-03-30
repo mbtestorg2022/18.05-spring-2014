@@ -4,6 +4,7 @@ description: This is a resource file that contains information regarding bayesia
   updating.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-05-introduction-to-probability-and-statistics-spring-2014/413d1be9b4ac520d3d8d3e39f4a8f9b5_MIT18_05S14_studio5_slides.pdf
 file_type: application/pdf
+parent_uid: 795a5521-0a16-d54d-c4e8-910a0c21496f
 resourcetype: Document
 title: 'Studio 5 Slides: Bayesian updating'
 uid: 413d1be9-b4ac-520d-3d8d-3e39f4a8f9b5

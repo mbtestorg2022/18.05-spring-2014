@@ -4,6 +4,7 @@ description: 'This resource file contains information regarding reading 13a: bay
   updating with continuous priors.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-05-introduction-to-probability-and-statistics-spring-2014/8105cfc11eaa2e4b6cbd4c29b4b281c0_MIT18_05S14_Reading13a.pdf
 file_type: application/pdf
+parent_uid: 579c055a-ccb4-eb7e-bb6b-f294146b45a5
 resourcetype: Document
 title: 'Reading 13a: Bayesian Updating with Continuous Priors'
 uid: 8105cfc1-1eaa-2e4b-6cbd-4c29b4b281c0

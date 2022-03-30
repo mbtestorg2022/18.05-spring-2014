@@ -4,6 +4,7 @@ description: This is a resource file that contains information regarding covaria
   correlation, CLT.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-05-introduction-to-probability-and-statistics-spring-2014/2bf8ef7cfe3f500704114e7ed9330acb_MIT18_05S14_studio4_slides.pdf
 file_type: application/pdf
+parent_uid: 795a5521-0a16-d54d-c4e8-910a0c21496f
 resourcetype: Document
 title: 'Studio 4 Slides: Covariance, correlation, CLT'
 uid: 2bf8ef7c-fe3f-5007-0411-4e7ed9330acb

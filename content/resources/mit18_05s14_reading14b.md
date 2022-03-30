@@ -4,6 +4,7 @@ description: 'This is a resource file that contains information regarding readin
   14b: continuous data with continuous priors.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-05-introduction-to-probability-and-statistics-spring-2014/24075fadf310d49f4fe3888a9369567c_MIT18_05S14_Reading14b.pdf
 file_type: application/pdf
+parent_uid: 579c055a-ccb4-eb7e-bb6b-f294146b45a5
 resourcetype: Document
 title: 'Reading 14b: Continuous Data with Continuous Priors'
 uid: 24075fad-f310-d49f-4fe3-888a9369567c

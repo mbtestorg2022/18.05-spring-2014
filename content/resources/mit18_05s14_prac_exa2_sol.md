@@ -4,6 +4,7 @@ description: This is a resource file that contains information regarding solutio
   to exam 2 practice questions.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-05-introduction-to-probability-and-statistics-spring-2014/181c27d35d4ce7bbb7d526f10a632e98_MIT18_05S14_Prac_Exa2_Sol.pdf
 file_type: application/pdf
+parent_uid: ad95d694-8a5a-21e8-d68c-2ed80b877e38
 resourcetype: Document
 title: Solutions to Exam 2 Practice Questions
 uid: 181c27d3-5d4c-e7bb-b7d5-26f10a632e98
